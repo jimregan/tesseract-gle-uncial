@@ -1,0 +1,2 @@
+  * [http://code.google.com/p/tesseract-ocr/ The Tesseract Project Page]
+  * [http://en.wikipedia.org/wiki/Tesseract_%28software%29 Page on Wikipedia]
