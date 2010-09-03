@@ -1,20 +1,20 @@
 #summary A table of fonts we'd like to support, and sources of training data for each
 
-||Font                  ||SVN    ||Book            ||Year||Page Images||Source    ||Transcribed||Transcriber||
-||Cló Eilíse            ||       ||                ||    ||           ||          ||   ||  ||
-||Cló Lováin            ||       ||                ||    ||          ||          ||  || ||
-||Cló Phárais           ||       ||                ||    ||          ||          || || || 
-||Cló Parker            ||       ||                ||    ||          ||          || || || 
-||*Cló Watts             ||NT1818       ||                ||    ||          ||          || || || 
-||*Cló Fry               ||battleofgabhra       ||                ||    ||          ||          || || || 
-||Cló Figgins           ||irishminstrelsy       ||                ||    ||          ||          ||  || || 
-||*Cló Petrie            ||ddub   ||                ||    ||          ||          || || ||
-||*Cló Newman    ||besidethefire    ||                ||    ||          ||          ||  || ||
-||*Cló Newman    ||ivanhoe          ||                ||    ||          ||          || || ||
-||*Cló Newman    ||leabharsgeulaigheachta    ||                ||    ||          ||          ||  || ||
-||*Cló Newman    ||mosgealfein    ||                ||    ||          ||          ||  || ||
-||*Cló Newman    ||saolcorrach    ||                ||    ||          ||          ||  || ||
-||*Cló Newman    ||seadna         ||                ||    ||          ||          ||  ||  ||
-||Cló Uí Shearcaigh     ||searcaigh    ||                ||    ||          ||          || || ||
-||*Cló Cholm Cille       ||ornahaitinne ||                ||    ||          ||       || || ||
-||An Cló Nua-Rómhánach  ||       ||An Béal Bocht   ||1964||          ||          || ||  ||
+||Font                  ||SVN    ||Book            ||Year||Page Images||Source    ||Transcribed||Transcriber||Box Files||
+||Cló Eilíse            ||       ||                ||    ||           ||          ||   ||  || ||
+||Cló Lováin            ||       ||                ||    ||          ||   ||       ||  || ||
+||Cló Phárais           ||       ||                ||    ||          ||    ||      || || || 
+||Cló Parker            ||       ||                ||    ||          ||     ||     || || || 
+||*Cló Watts*             ||NT1818       ||                ||    ||          ||    ||      || || || 
+||*Cló Fry*               ||battleofgabhra       ||                ||    ||          ||||          || || || 
+||Cló Figgins           ||irishminstrelsy       ||                ||    ||          ||||          ||  || || 
+||*Cló Petrie*            ||ddub   ||                ||    ||          ||    ||      || || ||
+||*Cló Newman*    ||besidethefire    ||                ||    ||          ||    ||      ||  || ||
+||*Cló Newman*    ||ivanhoe          ||                ||    ||          ||      ||    || || ||
+||*Cló Newman*    ||leabharsgeulaigheachta    ||                ||    ||       ||   ||          ||  || ||
+||*Cló Newman*    ||mosgealfein    ||                ||    ||          ||      ||    ||  || ||
+||*Cló Newman*    ||saolcorrach    ||                ||    ||          ||     ||     ||  || ||
+||*Cló Newman*    ||seadna         ||                ||    ||          ||      ||    ||  ||  ||
+||Cló Uí Shearcaigh     ||searcaigh    ||                ||    ||          ||   ||       || || ||
+||*Cló Cholm Cille*       ||ornahaitinne ||                ||    ||          ||    ||   || || ||
+||An Cló Nua-Rómhánach  ||       ||An Béal Bocht   ||1964||          ||      ||    || ||  ||
