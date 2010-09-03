@@ -1,15 +1,15 @@
 #summary A table of fonts we'd like to support, and sources of training data for each
 
-||Font                  ||SVN    ||Book            ||Year||Page Images||Source    ||Transcribed||Transcriber||Box Files||
+||Font                  ||SVN    ||Book            ||Year||Page Images||Source    ||Transcribed||Transcriber||Box Files||Box File Editor||
 ||Cló Eilíse            ||       ||                ||    ||           ||          ||   ||  || ||
 ||Cló Lováin            ||       ||                ||    ||          ||   ||       ||  || ||
 ||Cló Phárais           ||       ||                ||    ||          ||    ||      || || || 
 ||Cló Parker            ||       ||                ||    ||          ||     ||     || || || 
 ||*Cló Watts*             ||NT1818       ||                ||    ||          ||    ||      || || || 
-||*Cló Fry*               ||battleofgabhra       ||                ||    ||          ||||          || || || 
+||*Cló Fry*               ||battleofgabhra       ||              ||    ||   150  ||  V. Morley ||  ||   ||   ||
 ||Cló Figgins           ||irishminstrelsy       ||                ||    ||          ||||          ||  || || 
-||*Cló Petrie*            ||ddub   ||                ||    ||          ||    ||      || || ||
-||*Cló Newman*    ||besidethefire    ||                ||    ||          ||    ||      ||  || ||
+||*Cló Petrie*            ||ddub   || Duanaire Dháibhidh Uí Bhruadair   ||1917||  134        || V. Morley   ||      || || ||  ||
+||*Cló Newman*    ||besidethefire    ||                ||    ||  1-51, 107   ||  J. Regan  ||  1-51, 107    || A. Mac an Bhaird || 1-14  ||  K. Scannell ||
 ||*Cló Newman*    ||ivanhoe          ||                ||    ||          ||      ||    || || ||
 ||*Cló Newman*    ||leabharsgeulaigheachta    ||                ||    ||       ||   ||          ||  || ||
 ||*Cló Newman*    ||mosgealfein    ||                ||    ||          ||      ||    ||  || ||
