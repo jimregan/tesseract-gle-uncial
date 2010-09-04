@@ -1,20 +1,21 @@
 #summary A table of fonts we'd like to support, and sources of training data for each
 
 ||Font                  ||SVN    ||Book            ||Year||Page Images||Source    ||Transcribed||Transcriber||Box Files||Box File Editor||
-||Cló Eilíse            ||       ||                ||    ||           ||          ||   ||  || ||
-||Cló Lováin            ||       ||                ||    ||          ||   ||       ||  || ||
-||Cló Phárais           ||       ||                ||    ||          ||    ||      || || || 
-||Cló Parker            ||       ||                ||    ||          ||     ||     || || || 
-||*Cló Watts*             ||NT1818       ||                ||    ||          ||    ||      || || || 
-||*Cló Fry*               ||battleofgabhra       ||              ||    ||   150  ||  V. Morley ||  ||   ||   ||
-||Cló Figgins           ||irishminstrelsy       ||                ||    ||          ||||          ||  || || 
-||*Cló Petrie*            ||ddub   || Duanaire Dháibhidh Uí Bhruadair   ||1917||  134        || V. Morley   ||      || || ||  ||
-||*Cló Newman*    ||besidethefire    ||                ||    ||  1-51, 107   ||  J. Regan  ||  1-51, 107    || A. Mac an Bhaird || 1-14  ||  K. Scannell ||
-||*Cló Newman*    ||ivanhoe          ||                ||    ||          ||      ||    || || ||
-||*Cló Newman*    ||leabharsgeulaigheachta    ||                ||    ||       ||   ||          ||  || ||
-||*Cló Newman*    ||mosgealfein    ||                ||    ||          ||      ||    ||  || ||
-||*Cló Newman*    ||saolcorrach    ||                ||    ||          ||     ||     ||  || ||
-||*Cló Newman*    ||seadna         ||                ||    ||          ||      ||    ||  ||  ||
-||Cló Uí Shearcaigh     ||searcaigh    ||                ||    ||          ||   ||       || || ||
-||*Cló Cholm Cille*       ||ornahaitinne ||                ||    ||          ||    ||   || || ||
-||An Cló Nua-Rómhánach  ||       ||An Béal Bocht   ||1964||          ||      ||    || ||  ||
+||Cló Eilíse            ||       ||                ||    ||           ||          ||   ||  || || ||
+||Cló Lováin            ||       ||                ||    ||          ||   ||  ||     ||  || ||
+||Cló Phárais           ||       ||                ||    ||          ||    ||   ||   || || || 
+||Cló Parker            ||       ||                ||    ||          ||     ||  ||   || || || 
+|| *Cló Watts*     ||NT1818       ||    An Tiomna Nua   ||1818    || Gal. 1:1-12  || V. Morley   ||      ||   || ||   || 
+|| *Cló Fry*               ||battleofgabhra       ||              ||    ||   150  ||  V. Morley ||  ||   ||   ||  ||
+||Cló Figgins           ||irishminstrelsy       ||   Irish Minstrelsy             || 1831   ||    1?      || V. Morley ||      ||  || ||  ||
+|| *Cló Petrie*            ||ddub   || Duanaire Dháibhidh Uí Bhruadair   ||1917||  134        || V. Morley   ||      || || ||  ||
+|| *Cló Newman*    ||besidethefire    ||  Beside the fire/Le h-ais na teineadh              || 1890   ||  1-51, 107   ||  J. Regan  ||  1-51, 107    || A. Mac an Bhaird || 1-14  ||  K. Scannell ||
+|| *Cló Newman*    ||ivanhoe          ||  Ivanhoe      || 1937   ||  1-15   ||  C. Ó Duibhín    ||    || (CÓD e-text)  ||    ||    ||
+|| *Cló Newman*    ||leabharsgeulaigheachta    ||                ||    ||       ||   ||          ||  || ||   ||
+|| *Cló Newman*    ||mosgealfein    ||    Mo Sgéal Féin   ||1915    || 1-9  (wikisource: 10-69) ||wikisource.org  || (1-69)   ||  wikisource.org || ||  ||
+|| *Cló Newman*    ||peannanphiarsaigh  ||                ||    ||          ||      || 43-104   || A. Mac an Bhaird   ||  ||   ||
+|| *Cló Newman*    ||saolcorrach    ||  Saoġal Corraċ  ||    || 4-5, 32-33, 76-77, 82-83, 99, 110-111, 136-137, 140-141, 190-191, 204-205, 242-243          || A. Ó hAlmhain    || 4-5, 32-33, 76-77, 82-83, 99, 136-137, 190-191     || A. Ó hAlmhain || ||  ||
+|| *Cló Newman*    ||seadna         ||   Séadna    ||    || (KPS jpgs)   ||  wikisource.org     ||  67-199  || wikisource.org ||  ||   ||
+||Cló Uí Shearcaigh     ||searcaigh    || Foghraidheacht Gaedhilge an Tuaiscirt               || 1925   ||   v    || V. Morley  ||       || || ||  ||
+|| *Cló Cholm Cille*       ||ornahaitinne ||  Ór na h-Aitinne  ||1949 || 38  || V. Morley    ||   || || || ||
+||An Cló Nua-Rómhánach  ||       ||An Béal Bocht   ||1964||          ||      ||    || ||  || ||
