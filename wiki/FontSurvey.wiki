@@ -13,7 +13,7 @@
 || *Cló Newman*    ||ivanhoe          ||  Ivanhoe      || 1937   ||  1-15   ||  C. Ó Duibhín    ||    || (CÓD e-text)  ||    ||    ||
 || *Cló Newman*    ||leabharsgeulaigheachta    ||  Leabhar sgeulaigheachta || 1889   || (1-285)     || [http://ia700202.us.archive.org/12/items/leabharsgeulaigh00hyde/leabharsgeulaigh00hyde_jp2.zip archive.org JP2's]  ||          ||  || ||   ||
 || *Cló Newman*    ||mosgealfein    ||    Mo Sgéal Féin   ||1915    || 1-9  (wikisource: 10-69) ||wikisource.org  || (1-69)   ||  wikisource.org || ||  ||
-|| *Cló Newman*    ||peannanphiarsaigh  ||  Ó Pheann an Phiarsaigh    ||  ?  ||          ||      || 43-104   || A. Mac an Bhaird   ||  ||   ||
+|| *Cló Newman*    ||peannanphiarsaigh  ||  Ó Pheann an Phiarsaigh    ||  ?  ||  (1-135)        || [http://ia311035.us.archive.org/3/items/pheannphiarsai00pearuoft/pheannphiarsai00pearuoft_raw_jp2.zip archive.org JP2's]     || 43-104   || A. Mac an Bhaird   ||  ||   ||
 || *Cló Newman*    ||saolcorrach    ||  Saoġal Corraċ  || 1945?   || 4-5, 32-33, 76-77, 82-83, 99, 110-111, 136-137, 140-141, 190-191, 204-205, 242-243          || A. Ó hAlmhain    || 4-5, 32-33, 76-77, 82-83, 99, 136-137, 190-191     || A. Ó hAlmhain || ||  ||
 || *Cló Newman*    ||seadna         ||   Séadna    ||  1907  || (KPS jpgs)   ||  wikisource.org     ||  67-199  || wikisource.org ||  ||   ||
 ||Cló Uí Shearcaigh     ||searcaigh    || Foghraidheacht Gaedhilge an Tuaiscirt               || 1925   ||   v    || V. Morley  ||       || || ||  ||
