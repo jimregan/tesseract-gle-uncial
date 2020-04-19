@@ -30,7 +30,6 @@ while (<STDIN>) {
 	s/T[Hh]/Ṫ/g;
 	s/{h}/h/g;   # should transcribe explicit h's (e.g. "Sheffield", "Shakespeare") as "S{h}effield", etc.
 	s/{H}/H/g;
-	s/7/⁊/g;
 	print;
 }
 
