@@ -10,15 +10,15 @@ use Getopt::Std;
 
 =head1 NAME
 
-genwordlists.pl - generate word lists for Tesseract
+genlangdata.pl - generate word lists for Tesseract
 
 =head1 SYNOPSIS
 
-genwordlists.pl -i large_text_file -d outdir -p lang
+genlangdata.pl -i large_text_file -d outdir -p lang
 
 =head1 DESCRIPTION
 
-    genwordlists.pl -i large_text_file -d outdir -p lang
+    genlangdata.pl -i large_text_file -d outdir -p lang
 
 Creates 4 files in C<outdir>: F<lang.word.bigrams.unsorted>,
 F<lang.word.numbers.unsorted>, F<lang.word.punc.unsorted>, and
@@ -31,15 +31,15 @@ use:
 
     find WikiExtractor -type f | while read i; do \
     pfx=$(echo $i|tr '/' '_'); cat $i | \
-    perl genwordlists.pl -d OUTDIR -p $pfx; done
+    perl genlangdata.pl -d OUTDIR -p $pfx; done
 
 This will create a set of output files to match each of the files
 WikiExtractor created.
 
 To combine these files:
 
-    for i in word.bigrams.unsorted word.numbers.unsorted \
-    word.punc.unsorted wordlist.unsorted; do \
+    for i in word.bigrams.unsorted numbers.unsorted \
+    punc.unsorted wordlist.unsorted; do \
     find OUTDIR -name "*$i" -exec cat '{}' \; |\
     perl -CS -ane 'BEGIN{my %c=();} chomp;
     my($a,$b)=split/\t/;if(defined $c{$a}){$c{$a}+=$b}
@@ -48,8 +48,8 @@ To combine these files:
 
 Followed by:
 
-    for i in word.punc.unsorted word.bigrams.unsorted \
-    word.numbers.unsorted;do cat tmp.$i \
+    for i in punc.unsorted word.bigrams.unsorted \
+    numbers.unsorted;do cat tmp.$i \
     awk -F'\t' '{print $2 "\t" $1}' > real.$i ; done
     cat tmp.wordlist.unsorted | awk -F'\t' '{print $2}' \
     > real.wordlist.unsorted
@@ -231,7 +231,7 @@ while (my($k, $v) = each %bigrams) {
 close BIGRAMS;
 %bigrams = ();
 
-open(PUNCT, ">", "${prefix}word.punc.unsorted");
+open(PUNCT, ">", "${prefix}punc.unsorted");
 binmode PUNCT, ":utf8";
 while (my($k, $v) = each %punct) {
 	print PUNCT "$k\t$v\n";
@@ -239,7 +239,7 @@ while (my($k, $v) = each %punct) {
 close PUNCT;
 %punct = ();
 
-open(NUMS, ">", "${prefix}word.numbers.unsorted");
+open(NUMS, ">", "${prefix}numbers.unsorted");
 binmode NUMS, ":utf8";
 while (my($k, $v) = each %num) {
 	print NUMS "$k\t$v\n";
